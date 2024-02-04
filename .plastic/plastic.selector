@@ -1,0 +1,4 @@
+repository "ECO-Aurora-Unity@ECO_Aurora@cloud"
+  path "/"
+    br "/main"
+    co "/main"
