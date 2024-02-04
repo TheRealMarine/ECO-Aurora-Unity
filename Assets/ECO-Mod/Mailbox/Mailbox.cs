@@ -1,5 +1,3 @@
-// Eco Russian Community
-
 namespace Eco.Mods.TechTree
 {
     using System;
