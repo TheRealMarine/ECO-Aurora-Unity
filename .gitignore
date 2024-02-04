@@ -70,3 +70,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/ECO-Mod/obj/project.nuget.cache
+Assets/ECO-Mod/obj/project.assets.json
+Assets/ECO-Mod/obj/ECO-Mod.csproj.nuget.g.props
+Assets/ECO-Mod/obj/ECO-Mod.csproj.nuget.dgspec.json
+Assets/ECO-Mod/obj/Debug/net7.0/ECO-Mod.GeneratedMSBuildEditorConfig.editorconfig
+Assets/ECO-Mod/obj/Debug/net7.0/ECO-Mod.csproj.AssemblyReference.cache
+Assets/ECO-Mod/obj/Debug/net7.0/ECO-Mod.assets.cache
+Assets/ECO-Mod/obj/Debug/net7.0/ECO-Mod.AssemblyInfoInputs.cache
+Assets/ECO-Mod/obj/Debug/net7.0/ECO-Mod.AssemblyInfo.cs
