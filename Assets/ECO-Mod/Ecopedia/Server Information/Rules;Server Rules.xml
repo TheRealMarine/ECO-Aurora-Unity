@@ -1,0 +1,50 @@
+<!-- Here we define the Eco item that will be used for our page's icon in the Ecopedia navigation bar -->
+<ecopedia icon="PaperItem">
+  <summary>Welcome to the Aurora Eco Server!</summary>
+
+  <!-- The banner section type allows for the addition of images that were previously created inside the client AssetBundle project. 
+    These images will attempt to fill the full width of the Ecoepdia page so it is advised to use rectangle images that are longer then they are tall. -->
+<!--  <section type="banner" image="EcoLogoSampleImage" /> -->
+
+  <!-- In most cases your page content should be enclosed in the base section tag. This allows the page parser to properly lay out the content
+    you give it -->
+  <section>
+<b>General Server Rules
+
+1. Be Respectful!
+
+2. Stealing from property of others is not allowed. For unclaimed areas it is still advised to follow this rule however this does fall back on the owner of the property.
+
+3. Hostile Takeover of the property of somebody who is not abandoned (at least 0 hours playtime in the last 7 Days) is NOT allowed.
+
+4. All Structures must be supported, no floating or unrealistic builds held up with just a set of stairs.
+
+
+Season 2 : Skills & Economy
+
+--Skills--
+This Season you will only have 3 stars max for profession choices, We encourage NOT taking jobs necessarily in a line like Gather > Farmer > Miller, 
+Instead we would rather you choose something like Gather > Farmer, then jump to something else you are interested in that doesn't take supplies from farming. 
+By doing this it will allow for better economics on the server and will incentivize better trade. Do feel free to save stars for jobs that come later in gameplay!
+
+An additional note, skills will take longer to level up this season, so expect to not reach level 6 in your skills on the first day you get them.
+
+--Economy--
+When setting prices of items to sell, set profit margins higher on less sold items (general baseline profit is 20%), 
+stuff that sells far less should have higher margin than something that sells thousands. (examples - flaxseeds = profit of 20%, cars/boats = profit of 60%) 
+
+When setting buy prices, set them a few cents higher than the sell prices of that item (more money the less of the item you are buying).
+This will get you the things you need quicker while also stimulating the economy through trade and allowing for individuals to do transport services as a profession
+making the difference as profit and a way to pay their expenses.
+</b>
+
+We hope you enjoy your stay!
+
+
+If you would like to stay up to date on our changes be sure to join our Discord!
+You can also type the following into chat on Eco to link your account to discord (Be sure to join the discord first): /dl linkaccount "Your Discord Username"
+  </section>
+  <!-- The button section type creates a clickable button that will open an external URL when clicked. Note: if the URL is not a domain
+    that Strange Loop Games has verified as trusted a warning dialog will be presented to the user instead of the normal "open website" dialog box -->
+  <section type="button" url="https://discord.gg/z6xbjQqQQr">Click here to join!</section>
+</ecopedia>
