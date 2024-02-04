@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0GbPFybuMvykt+1nGFNkmbut1cl4gAWgvIXNuvNf0m5oTwTNMVNE/F5PhxE5+p7ObfAl3Ie4njrVt6AD/M5VFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\panze\\ECO-Modkit\\ECO-Aurora-Unity\\Assets\\ECO-Mod\\ECO-Mod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\panze\\.nuget\\packages\\eco.referenceassemblies\\0.10.1.3-beta-release-592\\eco.referenceassemblies.0.10.1.3-beta-release-592.nupkg.sha512"
+  ],
+  "logs": []
+}
